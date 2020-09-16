@@ -1,3 +1,1 @@
-#Calculator
-
-##Crate calculator wtih JavaScript
+# Calculator with JavaScript
